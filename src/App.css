@@ -1,0 +1,23 @@
+.app-wrapp {
+    margin: 50px auto;
+    padding: 45px;
+    width: 1440px;
+    height: 820px;
+    border-radius: 30px;
+    background-color: #1F2223;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.app-content {
+    width: 1354px;
+    height: 730px;
+    background-color: #000;
+    border-radius: 28px;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    -ms-border-radius: 28px;
+    -o-border-radius: 28px;
+}

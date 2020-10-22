@@ -1,0 +1,4 @@
+.inputBlock {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,45 @@
+.block {
+    margin: 23px 0 0 50px;
+}
+
+.block span {
+    margin: 0 0 5px 20px;
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgba(235, 235, 245, 0.6);
+}
+
+.btn {
+    margin: 48px 0 0 50px;
+    width: 343px;
+    height: 50px;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+    background-color: #007AFF;
+    border: none;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.response {
+    padding: 10px 20px;
+    width: 343px;
+    height: 120px;
+    background: rgba(118, 118, 128, 0.24);
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    resize: none;
+    outline: none;
+    color: rgba(235, 235, 245, 0.6);
+}
