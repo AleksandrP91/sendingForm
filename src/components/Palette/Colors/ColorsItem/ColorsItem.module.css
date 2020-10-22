@@ -1,0 +1,12 @@
+.item {
+    position: relative;
+    margin: 0 12px 12px 17px;
+    width: 54px;
+    height: 54px;
+    background-color: red;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
